@@ -1,18 +1,18 @@
 #calcForm {
-	margin: 3.5% 25%;
+  margin: 3.5% 25%;
 }
 
 #calcForm > input:first-child:focus {
-	outline: none;
+  outline: none;
 }
 
 input {
-	width: 150px;
-	height: 100px;
-	background-color: #000;
-	color: #fff;
-	font-size: 75px;
-	border-style: none;
-	border-radius: 10px;
-	margin: 10px;
+  width: 150px;
+  height: 100px;
+  background-color: #000;
+  color: #fff;
+  font-size: 75px;
+  border-style: none;
+  border-radius: 10px;
+  margin: 10px;
 }
